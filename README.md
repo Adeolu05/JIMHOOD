@@ -1,6 +1,6 @@
 # JIMHOOD
 
-Jimothy The Robin — community meme token site on Solana.
+Jimothy The Robin - community meme token site on Solana.
 
 Open `index.html` locally, or deploy the repo root to any static host / GitHub Pages.
 
